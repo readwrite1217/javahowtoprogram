@@ -8,8 +8,8 @@ public class ValueOfPi {
         int count = 0;
         double pi = 0;
         double i = 1;
-
-        while (count < 200000) {
+        System.out.println("Term   Value of Pi");
+        while (count < 100) {
 
             if (count % 2 == 0) {
                 pi += (double) 4 / i;
@@ -23,6 +23,7 @@ public class ValueOfPi {
                 System.out.println("The no of terms for the pi value of 3.14159 is: " + count);
                 found = true;
             }
+            System.out.printf("%4d  %8.6f\n", count, pi);
         }
 
         System.out.println("Pi: " + pi);
