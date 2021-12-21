@@ -26,7 +26,6 @@ public class ValueOfPi {
             System.out.printf("%4d  %8.6f\n", count, pi);
         }
 
-        System.out.println("Pi: " + pi);
     }
 
 }
