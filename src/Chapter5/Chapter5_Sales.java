@@ -25,7 +25,7 @@ public class Chapter5_Sales {
                 int quantitySold = scanner.nextInt();
                 // determine retail price for each product
                 double retailForEachProduct = quantitySold * priceForProduct(input);
-                System.out.printf("Product  Quantity    RetailPrice\n%7d  %8d  %8.2f\n", input, quantitySold, retailForEachProduct);
+                System.out.printf("Product  Quantity    RetailPrice\n%7d  %8d  %8   .2f\n", input, quantitySold, retailForEachProduct);
                 totalRetail += retailForEachProduct;
             }
         }
