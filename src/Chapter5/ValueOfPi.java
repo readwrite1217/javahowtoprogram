@@ -7,9 +7,9 @@ public class ValueOfPi {
 
         int count = 0;
         double pi = 0;
-        double i = 1;
+        int i = 1;
         System.out.println("Term   Value of Pi");
-        while (count < 100) {
+        while (count < 20000) {
 
             if (count % 2 == 0) {
                 pi += (double) 4 / i;
