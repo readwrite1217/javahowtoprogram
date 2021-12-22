@@ -27,7 +27,7 @@ public class ChristmasSong {
 
     private static String christmanGitsForDay(int i) {
         StringBuilder s = new StringBuilder();
-        //lenthg 11 index 10
+        //length 11
         String[] christmanGits = new String[]{"(All their good wishes)", " (Gifts for one and all)", "(Some mistletoe)", "  (A guardian angel)", "(Gold and silver tinsel)", "(Candles a glowing)",
                 "(Little silver bells)", "(A shining star)", "(Four colored lights)", "(Three boughs of holly)", "(Two candy canes)"};
         for (int j = 0; j < i - 1; j++) {
