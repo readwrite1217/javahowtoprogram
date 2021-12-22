@@ -1,0 +1,33 @@
+3.1
+a) public
+b) class
+c) new - requests memory from the system to store and object and then calls the corresponding class constructor
+d) name, type
+e) default
+f) instance - each object of a class maintains its own copy of an attribute
+g) float, double
+h) double-precision
+i) nextDouble()
+j) modifier
+k) void
+l) nextLine()
+m) java.lang
+n) import
+o) floating-point number
+p) single-precision
+q) %f
+r) primitive and reference
+
+3.2
+False
+True
+True
+T
+F
+F
+T
+F
+T
+T
+T
+F
