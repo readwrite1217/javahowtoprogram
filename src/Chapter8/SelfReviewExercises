@@ -1,0 +1,23 @@
+-d
+format
+shadows
+finalize
+single-type-import
+default constructor
+toString
+acessor methods, query methods
+predicate - checks if a statement is true or false
+values
+has one
+enum
+static
+single static import
+principle of least privilege
+final
+package declaration
+type import on demand
+class loader
+-classpath
+mutator methods
+static import on demand
+public services, public interface
